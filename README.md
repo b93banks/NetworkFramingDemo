@@ -3,9 +3,9 @@
 This was a project to help understanding network framing.
 
 Concepts used in this project:
-* >Byte Stuffing
-* >Byte Count
-* >Bit Stuffing
+>Byte Stuffing
+>Byte Count
+>Bit Stuffing
 
 =====
 
