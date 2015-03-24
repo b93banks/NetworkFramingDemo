@@ -1,0 +1,6 @@
+C:\Users\Brandon\Documents\Visual Studio 2013\Projects\CS327_Framing-bbanks\Framing-bbanks\bin\Debug\Framing-bbanks.exe.config
+C:\Users\Brandon\Documents\Visual Studio 2013\Projects\CS327_Framing-bbanks\Framing-bbanks\obj\Debug\Framing-bbanks.exe
+C:\Users\Brandon\Documents\Visual Studio 2013\Projects\CS327_Framing-bbanks\Framing-bbanks\obj\Debug\Framing-bbanks.pdb
+C:\Users\Brandon\Documents\Visual Studio 2013\Projects\CS327_Framing-bbanks\Framing-bbanks\obj\Debug\CS327_Framing.csprojResolveAssemblyReference.cache
+C:\Users\Brandon\Documents\Visual Studio 2013\Projects\CS327_Framing-bbanks\Framing-bbanks\bin\Debug\Framing-bbanks.exe
+C:\Users\Brandon\Documents\Visual Studio 2013\Projects\CS327_Framing-bbanks\Framing-bbanks\bin\Debug\Framing-bbanks.pdb
