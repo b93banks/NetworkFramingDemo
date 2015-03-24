@@ -9,4 +9,4 @@ Concepts used in this project:
 
 =====
 
-If you have any questions, please feel free to email me at b93banks@gmail.com
+Questions or comments? Feel free to email me at b93banks@gmail.com
