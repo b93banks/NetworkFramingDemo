@@ -1,6 +1,6 @@
 # NetworkFramingDemo
 
-This was a project written in C# to help understanding network framing.
+This was a project written in C# to help understanding of network framing.
 
 Concepts used in this project:
 * Byte Stuffing
